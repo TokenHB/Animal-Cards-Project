@@ -1,0 +1,45 @@
+.name{
+
+  margin-top: auto;
+
+}
+
+.Cardz{
+  width: 315px;
+  border: solid lightgrey 2px;
+  box-shadow: 3px 5px 2px 2px lightgrey;
+  padding: 10px;
+}
+
+.Plat-image{
+
+    display: block;
+    padding: 5px;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 15px;
+
+}
+
+.bottom{
+
+  padding: 10px;
+  width: 280px;
+  border: solid lightgrey 1px;
+  margin-left: 5px;
+
+    }
+
+
+.attrib{
+
+      font-weight: bold;
+      margin-left: -45px;
+
+
+    }
+.animal-trivia{
+  margin-top: -1px;
+  font-style: italic;
+
+}
